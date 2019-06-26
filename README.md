@@ -1,5 +1,7 @@
 # DNA.js
 
+### (pt-br)
+
 ## Aqui contem exemplos sobre o DNAJS
 
 ![imagem-logo](logo.png)
@@ -8,9 +10,18 @@
 
 O DNAJS é uma lib super leve que visa o desenvolvimento de aplicações webs de forma rápida e organizada. Abaixo temos um exemplo simples de seu uso, o código pode ser baixado na pasta: chamada exemple one.
 
+### (en)
+## Here are examples on DNAJS
+
+! [image-logo] (logo.png)
+
+## About DNAJS
+
+DNAJS is a super light lib that aims at developing web applications in a fast and organized way. Below is a simple example of its use, the code can be downloaded in the folder: called exemple one.
+
 ``` html
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <title></title>
         <meta charset="UTF-8">

@@ -13,8 +13,6 @@ O DNAJS é uma lib super leve que visa o desenvolvimento de aplicações webs de
 ### (en)
 ## Here are examples on DNAJS
 
-! [image-logo] (logo.png)
-
 ## About DNAJS
 
 DNAJS is a super light lib that aims at developing web applications in a fast and organized way. Below is a simple example of its use, the code can be downloaded in the folder: called exemple one.
